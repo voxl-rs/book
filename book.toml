@@ -1,0 +1,6 @@
+[book]
+authors = ["Senre"]
+language = "en"
+multilingual = false
+src = "src"
+title = "voxl guide"
